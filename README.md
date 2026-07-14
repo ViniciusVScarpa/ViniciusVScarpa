@@ -1,6 +1,6 @@
  ### Sobre mim
  Olá, eu sou o ViniciusVScarpa! Estou me juntando a essa incrível comunidade para aprimorar meus conhecimentos em programação enquanto contribuindo com a 
- comunidade open-source. Possuo formação em Engenharia Agronômica e atualmente estou para terminar meu MBA em Data Science & Analytics. 
+ comunidade open-source. Possuo formação em Engenharia Agronômica e MBA em Data Science & Analytics. 
 
  Estou constantemente aprendendo coisas novas e tentando juntar minhas áreas de formação em algo funcional e útil para a sociedade como um todo.
  
@@ -8,7 +8,8 @@ Posso ser encontrado através do meu [linkedin](https://www.linkedin.com/in/vsca
 
 ### Linguagens:
 Atualmente realizei meu TCC em R e estou explorando Python.
-Fiz também cursos abordando o SQL.
+Finalizei também os cursos: Excel e SQL Impressionador, da Hashtag Treinamentos.
+Geri uma base de 24 tabelas no Airtable, transformando-a no ecossistema de produtos da empresa.
 
 
 
