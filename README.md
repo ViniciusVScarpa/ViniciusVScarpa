@@ -9,7 +9,7 @@ Posso ser encontrado através do meu [linkedin](https://www.linkedin.com/in/vsca
 ### Linguagens:
 Atualmente realizei meu TCC em R e estou explorando Python.
 Finalizei também os cursos: Excel e SQL Impressionador, da Hashtag Treinamentos.
-Geri uma base de 24 tabelas no Airtable, transformando-a no ecossistema de produtos da empresa.
+Geri uma base de 24 tabelas no Airtable, transformando-a no ecossistema do setor de produtos da empresa.
 
 
 
